@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Фото животных</string>
+    <string name="cat_card">картиинка</string>
+    <string name="descriptionAlertImage">Фото животных</string>
+</resources>
